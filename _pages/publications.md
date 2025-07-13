@@ -45,6 +45,21 @@ function toggleBibtex(articleid) {
 ## Journal Publications
 <ol class="biblist">
 
+<!-- Item: Tao2024TSTE-->
+<li ><p>
+<b>SolarFusionNet: Enhanced Solar Irradiance Forecasting via Automated Multi-Modal Feature Selection and Cross-Modal Fusion</b><br>
+<b>Tao Jing</b>, Shanlin Chen, David Navarro-Alarcon, Yinghao Chu, Mengying Li<br>
+
+<i>IEEE Transactions on Sustainable Energy</i>,
+
+2022<br>
+<a href="javascript:toggleBibtex('Tao2024TSTE')" class="textlink"></a>
+<a href="https://ieeexplore.ieee.org/document/10723760" class="textlink" target="_blank">[link]</a>
+</p>
+</li>
+
+
+
 <!-- Item: Tao2022ADVEI-->
 <li ><p>
 <b>Transformer-based hierarchical latent space VAE for interpretable remaining useful life prediction</b><br>
