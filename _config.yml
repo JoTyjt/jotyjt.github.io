@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tao JING (荆涛)"
+title                    : "Tao JING"
 title_separator          : "-"
 name                     : &name "Tao JING"
 description              : &description "Ph.D student, Department of Mechnical Engineering, Hong Kong Polytechnic University"
@@ -85,7 +85,7 @@ author:
   employer         :
 #  pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tedjlZYAAAAJ&hl=zh-CN"
-  email            : "totror@mail.nwpu.edu.cn"
+  email            : "tao-joty.jing@connect.polyu.hk"
   researchgate     : "https://www.researchgate.net/profile/Jing-Tao-12"
   uri              :
   bitbucket        :
@@ -94,14 +94,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JoTyjt"
+  github           : "JOTYtao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8256-9430"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
